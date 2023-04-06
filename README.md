@@ -7,8 +7,5 @@ This project aims to deliver base for implementing crud api using FastAPI.
 | goal | status |
 | -- | -- |
 | project structure | in progress |
-| sqlalchemy integration | todo |
-| authorization | todo |
-| dockerization | todo |
 | tests | todo |
 | docs | todo |

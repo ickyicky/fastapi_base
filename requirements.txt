@@ -1,0 +1,9 @@
+fastapi
+pydantic
+sqlalchemy[postgresql_asyncpg]
+uvicorn[standard]
+asyncpg
+psycopg2-binary==2.9.3
+python-jose[cryptography]
+passlib[bcrypt]
+fastapi-users
